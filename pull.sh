@@ -1,2 +1,2 @@
-# v3
-open -a "Notes"
+# v4
+mkdir -p "$HOME/Desktop/apple"
