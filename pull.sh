@@ -1,2 +1,2 @@
-# v1.1
+# v2
 open -a "Notes"
