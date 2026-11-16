@@ -1,2 +1,2 @@
 # v5
-open -a "Microsoft Outlook"
+open -a "Notes"
