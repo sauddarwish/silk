@@ -1,2 +1,2 @@
-# v6
-open -a "Notes"
+# v7
+open -a "Spotify"
